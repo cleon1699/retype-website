@@ -2,7 +2,6 @@
 This is my first try with the editor.
 
 I'm just playing around with markdown.
-Testing the implementation.
 
 | Header 1 | Header 2 | Header 3 |
 |-|-|-|
