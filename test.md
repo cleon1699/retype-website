@@ -2,6 +2,7 @@
 This is my first try with the editor.
 
 I'm just playing around with markdown.
+Here is the edit from 12-13-2024.
 
 | Header 1 | Header 2 | Header 3 |
 |-|-|-|
